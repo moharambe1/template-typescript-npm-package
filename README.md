@@ -1,1 +1,1 @@
-# MY npm package typescipte template 
+# My template for npm typescipte package   
